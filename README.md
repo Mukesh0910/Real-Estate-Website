@@ -1,0 +1,1 @@
+The Real Estate Property Listing Website is a web-based project built using HTML and CSS to display property listings for buying, selling, or renting real estate properties. The website allows users to browse various properties with detailed information such as location, price, images, and property type.
